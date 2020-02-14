@@ -14,10 +14,6 @@ Mira *http://meetvents.herokuapp.com/login** para conocer mas sobre nuestro proy
 
 _NodeJS, Express, MongoDB, Handlebars, Sass y Mapbox_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
 ## Colaboradores ✒️
 
 _A continuación te mostramos a los autores de este proyecto:_
