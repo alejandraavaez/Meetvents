@@ -8,7 +8,7 @@ _meetvents es un proyecto que surge a través de una necesidad, donde las person
 
 Mira *http://meetvents.herokuapp.com/login** para conocer mas sobre nuestro proyecto.
 
-![alt text](https://github.com/alejandraavaez/Meetvents/blob/master/public/images/meetvents%20(1).jpg?raw=true)
+![alt text](https://github.com/alejandraavaez/foodme/blob/master/Herofoodme-min.jpg)
 
 ## Construido con 🛠️
 
